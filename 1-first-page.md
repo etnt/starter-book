@@ -1,6 +1,6 @@
 # First Page
 
-Below are a few simple examples of embedding content with markdown, starting with an image embed.
+Below hej a few simple examples of embedding content with markdown, starting with an image embed.
 
 ![This is an image embed](images/500x150.gif)
 
